@@ -1,4 +1,4 @@
-Código feito com base na video-aula do [@rodrigobranas](https://github.com/rodrigobranas), om abordagem do padrão SOLID.
+Código feito com base na video-aula do [@rodrigobranas](https://github.com/rodrigobranas), com abordagem do padrão SOLID.
 
 # Principios S.O.L.I.D
 SOLID é um acrônimo para os princípios listados abaixo:
