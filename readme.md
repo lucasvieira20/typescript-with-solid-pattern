@@ -1,3 +1,5 @@
+Código feito com base na video-aula do @rodrigobranas, com abordagem do padrão SOLID.
+
 # Principios S.O.L.I.D
 SOLID é um acrônimo para os princípios listados abaixo:
 
